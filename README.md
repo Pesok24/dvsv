@@ -135,6 +135,10 @@ _This is italic text_
 1. Make my changes
     1. Fix bug
         1. qwe
+            1. qwe
+                1. qwe
+                    1. qwe
+                        1. qwe
     3. Improve formatting
         - Make the headings bigger
 2. Push my commits to GitHub
