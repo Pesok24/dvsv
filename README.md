@@ -15,7 +15,8 @@ Alt-H1
 
 Alt-H2
 ------
-```	
+```
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 # h1 Heading 8-)
 ## h2 Heading
