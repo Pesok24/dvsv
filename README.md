@@ -37,6 +37,8 @@ Alt-H2
 
 # Emphasis
 
+bla bla `#ffffff` bla bla `#000000`
+
 ```
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
